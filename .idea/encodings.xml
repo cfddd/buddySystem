@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/BuddySystem/BuddySystem.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/MVC/Hua_Rong_Road.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Person.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/geng/cheshi/BarChart.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/geng/handle/HandleAllocation.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/geng/handle/HandleFreePages.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/geng/view/allocPages.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/geng/view/freePages.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/geng/view/mainView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/geng/view/warning.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/MainWindow.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/generatorPicture.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/main.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../buddySystem0/src/BuddySystem/BuddySystem.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../buddySystem0/src/Person.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../buddySystem0/src/geng/cheshi/Cheshi.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../buddySystem0/src/geng/handle/HandleAllocation.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../buddySystem0/src/geng/handle/HandleFreePages.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../buddySystem0/src/geng/view/allocPages.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../buddySystem0/src/geng/view/freePages.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../buddySystem0/src/geng/view/mainView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../buddySystem0/src/geng/view/warning.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../buddySystem0/src/main/MainWindow.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../buddySystem0/src/main/main.java" charset="GBK" />
+  </component>
+</project>
